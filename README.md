@@ -1,3 +1,4 @@
+My first HW Assignment.  I learned some basic python
 # Approximate a square root
 
 ## Description
